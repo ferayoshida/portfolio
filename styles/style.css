@@ -149,7 +149,7 @@ body{
 }
 
 .apresentacao__imagem{
-    width: 50%;
+    width: 30%;
 }
 
 .rodape{
@@ -181,5 +181,9 @@ body{
     .apresentacao__conteudo__curriculo{
         width: auto;
         flex-direction: column;
+    }
+
+    .apresentacao__imagem{
+        width: 50%;
     }
 }
